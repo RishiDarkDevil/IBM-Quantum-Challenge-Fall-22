@@ -1,4 +1,5 @@
 # IBM Quantum Challenge Fall 2022
+![IBM Quantum Challenge Fall 2022 Completion](All-Lab-Completion.png)
 The repository contains the labs which were a part of the [IBM Quantum Challenge Fall 2022](https://challenges.quantum-computing.ibm.com/fall-2022). The challenge consisted of 4 labs:
 - `lab1.ipynb`: Introduction to Primitives on Qiskit Runtime. Learnt about Sampler and Estimator to find expectation of Hamiltonians of a Quantum Circuit and sample probability distribution. Focussed on Error Mitigation and working with Noisy low qubit systems (NISQ Era). 
 - `lab2.ipynb`: Quantum Kernel Learning with Qiskit Runtime. Explored Quantum Support Vector Machine and encoding of training data into Quantum Feature Space to linearly separate training data leading to recognition of simple handwritten digits. 
